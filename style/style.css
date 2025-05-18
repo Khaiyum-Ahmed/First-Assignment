@@ -230,3 +230,58 @@ nav .btn a{
 
 
 /* current target section start */
+
+
+.current-target-item{
+    text-align: center;
+    padding: 0px 144px;
+    margin-bottom: 48px;
+}
+.current-target-item2{
+    display: flex;
+    max-width: 1140px;
+    justify-content: space-between;
+    margin-bottom: 111px;
+}
+.current-target-item2 img{
+    margin-bottom: 24px;
+}
+.current-target-item2 h4{
+    font-size: 24px;
+    line-height: 36px;
+    color: #0D1321;
+    margin-bottom: 8px;
+}
+.current-target-item2 a{
+    display: inline-block;
+    margin-top: 24px;
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 700;
+}
+.target-html{
+    background-color: rgba(255, 76, 30,.05);
+    max-width: 365px;
+    padding: 40px;
+    border-radius: 16px;
+}
+.target-css{
+    background-color: rgba(0, 76, 232, .05);
+     max-width: 365px;
+    padding: 40px;
+    margin: 0px 24px;
+    border-radius: 16px;
+}
+.target-js{
+    background-color: rgba(255, 223, 0, .05);
+     max-width: 365px;
+    padding: 40px;
+    border-radius: 16px;
+}
+
+
+/* Next target section start */
+
+
+
+
