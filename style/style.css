@@ -24,9 +24,10 @@
 
 
 nav{
+    max-width: 1140px;
+    margin: 38px auto;
     display: flex;
     justify-content: space-between;
-    margin: 38px 150px;
     align-items: center;
 }
 .nav-title{
