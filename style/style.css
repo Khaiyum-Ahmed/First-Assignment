@@ -318,4 +318,108 @@ nav .btn a{
 
 /* support section start */
 
+.support-section{
+    max-width: 1140px;
+    margin: auto;
+    border-radius: 16px;
+    background-image: url(../assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 64px 48px;
+    margin-bottom: 80px;
+}
+.overlay{
+    width: 100%;
+     background-color: rgba(0, 0, 0, .3);
+     padding: 64px 48px;
+     border-radius: 16px;
+     margin-left: -48px;
+     margin-top: -65px;
+     margin-bottom: -65px;
+}
+.support-content{
+    max-width: 730px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 24px;
+}
+.support-content h3{
+    color: #FFFFFF;
+    font-size: 32px;
+    line-height: 36px;
+    font-weight: 700;
+}
+.support-content p{
+    color: rgba(255, 255, 255, .7);
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 26px;
+}
+.support-contact{
+    display: flex;
+    justify-content: center;
+   align-content: center;
+    max-width: 684px;
+    margin: auto;
+    margin-bottom: 64px;
+}
+.support-contact > input{
+    width: 548px;
+    display: inline-block;
+    padding: 20px;
+    margin-right: 16px;
+    border-style: none;
+    border-radius: 16px;
+}
+.support-contact input::placeholder{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(13, 19, 33, .4);
+}
+.submitbtn{
+    max-width: 120px;
+    color: #0D1321;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 17px 20px;
+}
+
+/* footer section start */
+
+footer{
+     background-color: rgba(13, 19, 33, .03);
+     border-radius: 16px;
+}
+.footer-section{
+    max-width: 1140px;
+    margin: auto;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 32px 150px;
+}
+.Author-name{
+    font-size: 20px;
+    font-weight: 600;
+    color: #0D1321;
+}
+.social-media{
+    width: 157px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.social-media a{
+    cursor: pointer;
+    width: 36px;
+    height: 36px;
+}
+.social-media a img{
+    width: 100%;
+}
+
+
+
 
