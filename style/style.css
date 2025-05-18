@@ -195,6 +195,11 @@ nav .btn a{
     text-align: center;
     margin-bottom: 48px;
 }
+.inspiration-video{
+    border-radius: 16px;
+    border: 1px solid rgba(13, 19, 33, .2);
+    padding: 32px;
+}
 .inspiration-video-contaniner iframe{
     border-radius: 16px;
 }
