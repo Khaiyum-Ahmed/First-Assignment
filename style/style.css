@@ -302,22 +302,18 @@ nav .btn a{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    padding: 64px 48px;
     margin-bottom: 80px;
 }
 .overlay{
     width: 100%;
      background-color: rgba(0, 0, 0, .3);
-     padding: 64px 48px;
      border-radius: 16px;
-     margin-left: -48px;
-     margin-top: -65px;
-     margin-bottom: -65px;
 }
 .support-content{
     max-width: 730px;
     margin: auto;
     text-align: center;
+    padding-top: 40px;
     margin-bottom: 24px;
 }
 .support-content h3{
@@ -337,7 +333,8 @@ nav .btn a{
     justify-content: center;
    align-content: center;
     max-width: 684px;
-    margin: auto;
+    margin:0px auto;
+    padding-bottom: 64px;
     margin-bottom: 64px;
 }
 .support-contact > input{
@@ -347,6 +344,7 @@ nav .btn a{
     margin-right: 16px;
     border-style: none;
     border-radius: 16px;
+    
 }
 .support-contact input::placeholder{
     font-size: 16px;
